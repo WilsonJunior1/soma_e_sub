@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="./styles/somaesub.css">
+        <title>Calc</title>
+    </head>
+    <body>
+        <div id="input-n1" class="inputnum input">
+            <form>
+                <h2>Digite o primeiro número:</h2>
+                <input type="number" placeholder="Digite o primeiro número" id="first-value">
+                <button type=button id="firstnum" class="inputnumbtn">Enviar</button>
+            </form>
+        </div>
+        <div id="somaousub" class="inputnum">
+                <h2>Qual operação deseja? Soma ou subtração? Digite!</h2>
+                <input type="text" placeholder="Ex:Soma" id="soma-ou-sub">
+                <button type="button" id="somaousubbtn">Enviar</button>
+        </div>  
+        <div id="input-n2" class="inputnum input">
+            <form>
+                <h2>Digite o segundo número:</h2>
+                <input type="number" placeholder="Digite o segundo número" id="second-value">
+                <button type=button id="second" class="inputnumbtn">Enviar</button>
+            </form>
+        </div>
+        <div id="resul" class="inputnum">
+            <h1 id=resulop>O resultado da operação é:</h1>
+            <h2 id="resultado"></h2>
+            <button type="button" id="refresh">Recarregar</button>
+        </div>
+    <script src="./scripts/somaesub.js"></script>
+    </body>
+</html>
