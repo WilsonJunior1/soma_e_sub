@@ -45,20 +45,14 @@
 <h1 id="printscreen">📷 Printscreen</h1>
 <!-Or you can use GIFs =D--->
         
-<img src="..."> <!--Or--> ![Text](Image)
-<img src="..."> <!--Or--> ![Text](Image)
-<img src="..."> <!--Or--> ![Text](Image)
-<img src="..."> <!--Or--> ![Text](Image)
-<img src="..."> <!--Or--> ![Text](Image)
-
+<img src="./src/imgs/first_num.png"> <!--Or--> ![Text](Image)
+<img src="./src/imgs/soma_ou_sub.png"> <!--Or--> ![Text](Image)
+<img src="./src/imgs/second_num.png"> <!--Or--> ![Text](Image)
+<img src="./src/imgs/resul.png"> <!--Or--> ![Text](Image)
 <br/><br/>
 
-<h1 id="licence">©️ License</h1>
-<p>Here you can put what licence you are using</p>
-
-<br/>
 
 <h1 id="author" align="center">Author</h1>
 
-<p align="center">Here you put your name</h1>
+<p align="center">Wilson Júnior</h1>
  
