@@ -12,7 +12,6 @@
 <p align="center">
  <a href="#objective">Objective</a> • 
  <a href="#tecnologies">Tecnologies</a> • 
- <a href="#license">License</a> • 
  <a href="#author">Author</a>
 </p>
 
