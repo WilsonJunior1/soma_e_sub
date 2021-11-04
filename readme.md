@@ -44,10 +44,10 @@
 <h1 id="printscreen">📷 Printscreen</h1>
 <!-Or you can use GIFs =D--->
         
-<img src="./src/imgs/first_num.png"> <!--Or--> ![Text](Image)
-<img src="./src/imgs/soma_ou_sub.png"> <!--Or--> ![Text](Image)
-<img src="./src/imgs/second_num.png"> <!--Or--> ![Text](Image)
-<img src="./src/imgs/resul.png"> <!--Or--> ![Text](Image)
+<img src="./src/imgs/first_num.png">
+<img src="./src/imgs/soma_ou_sub.png">
+<img src="./src/imgs/second_num.png">
+<img src="./src/imgs/resul.png">
 <br/><br/>
 
 
