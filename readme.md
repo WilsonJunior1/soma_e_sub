@@ -25,7 +25,7 @@
  
 <h1 id="objective">🎯 Objective</h1>
  
-<p>Criar um sistema simples de soma e subtração, utilizando conceitos de validação de formulário e testar minhas habilidades com desenvolvimento web</p>
+<p>Criar um sistema simples de soma e subtração, utilizando conceitos de validação de formulário e testar minhas habilidades com desenvolvimento web.</p>
  
 <br/><br/>
  
